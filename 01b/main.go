@@ -1,4 +1,4 @@
-// Fix for: https://adventofcode.com/2016/day/1
+// Fix for: https://adventofcode.com/2016/day/1b
 package main
 
 import (
