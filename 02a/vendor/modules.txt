@@ -1,3 +1,0 @@
-# github.com/CZero/gofuncy v0.0.0-20220201201351-0c257a50d1ed
-## explicit; go 1.17
-github.com/CZero/gofuncy/lfs
